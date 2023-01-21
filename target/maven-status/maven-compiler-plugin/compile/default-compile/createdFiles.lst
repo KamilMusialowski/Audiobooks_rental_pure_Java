@@ -1,0 +1,15 @@
+pl\polsl\controller\AddNewAudiobookServlet.class
+pl\polsl\model\OwnException.class
+pl\polsl\wypozyczalnia_audiobookow_web\JakartaRestConfiguration.class
+pl\polsl\controller\ShowExactGenreMenuServlet.class
+pl\polsl\controller\LoggingOutServlet.class
+pl\polsl\controller\MainPageServlet.class
+pl\polsl\model\Audiobook.class
+pl\polsl\wypozyczalnia_audiobookow_web\resources\JakartaEE8Resource.class
+pl\polsl\controller\ShowingExactGenreServlet.class
+pl\polsl\controller\AddingNewAudiobookServlet.class
+pl\polsl\model\Genre.class
+pl\polsl\model\Model.class
+pl\polsl\controller\ShowAllAudiobooksServlet.class
+pl\polsl\controller\RaportServlet.class
+pl\polsl\controller\LendAudiobookServlet.class

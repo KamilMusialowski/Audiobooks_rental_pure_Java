@@ -1,0 +1,82 @@
+@options
+@packages
+@argfile
+-classpath
+'C:/Users/kmusi/.m2/repository/org/apache/derbyclient/derby-client/10.14.2.0/derby-client-10.14.2.0.jar;C:/Users/kmusi/.m2/repository/jakarta/platform/jakarta.jakartaee-api/8.0.0/jakarta.jakartaee-api-8.0.0.jar;C:/Users/kmusi/.m2/repository/org/junit/jupiter/junit-jupiter-api/5.6.0/junit-jupiter-api-5.6.0.jar;C:/Users/kmusi/.m2/repository/org/apiguardian/apiguardian-api/1.1.0/apiguardian-api-1.1.0.jar;C:/Users/kmusi/.m2/repository/org/opentest4j/opentest4j/1.2.0/opentest4j-1.2.0.jar;C:/Users/kmusi/.m2/repository/org/junit/platform/junit-platform-commons/1.6.0/junit-platform-commons-1.6.0.jar;C:/Users/kmusi/.m2/repository/org/junit/jupiter/junit-jupiter-engine/5.6.3/junit-jupiter-engine-5.6.3.jar;C:/Users/kmusi/.m2/repository/org/junit/platform/junit-platform-engine/1.6.3/junit-platform-engine-1.6.3.jar'
+-encoding
+'UTF-8'
+-protected
+-source
+'1.8'
+-sourcepath
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'kamil_musialowski_wypozyczalnia_audiobookow 1.0-SNAPSHOT API'
+-linkoffline
+'https://docs.oracle.com/javase/8/docs/api' 'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/target/javadoc-bundle-options'
+-use
+-version
+-windowtitle
+'kamil_musialowski_wypozyczalnia_audiobookow 1.0-SNAPSHOT API'
+pl.polsl.controller
+pl.polsl.model
+pl.polsl.wypozyczalnia_audiobookow_web
+pl.polsl.wypozyczalnia_audiobookow_web.resources
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/AddingNewAudiobookServlet.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/AddNewAudiobookServlet.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/LendAudiobookServlet.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/LoggingOutServlet.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/MainPageServlet.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/package-info.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/RaportServlet.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/ShowAllAudiobooksServlet.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/ShowExactGenreMenuServlet.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/controller/ShowingExactGenreServlet.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/model/Audiobook.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/model/Genre.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/model/Model.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/model/OwnException.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/model/package-info.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/wypozyczalnia_audiobookow_web/JakartaRestConfiguration.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/wypozyczalnia_audiobookow_web/package-info.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/wypozyczalnia_audiobookow_web/resources/JakartaEE8Resource.java'
+'C:/Users/kmusi/OneDrive/Desktop/Java_studia/wypozyczalnia_audiobookow_web/src/main/java/pl/polsl/wypozyczalnia_audiobookow_web/resources/package-info.java'
+C:\Users\kmusi\.m2\repository\org\apache\derbyclient\derby-client\10.14.2.0\derby-client-10.14.2.0.jar = 1523034616000
+C:\Users\kmusi\.m2\repository\jakarta\platform\jakarta.jakartaee-api\8.0.0\jakarta.jakartaee-api-8.0.0.jar = 1669042160538
+C:\Users\kmusi\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.6.0\junit-jupiter-api-5.6.0.jar = 1666619096969
+C:\Users\kmusi\.m2\repository\org\apiguardian\apiguardian-api\1.1.0\apiguardian-api-1.1.0.jar = 1666619096246
+C:\Users\kmusi\.m2\repository\org\opentest4j\opentest4j\1.2.0\opentest4j-1.2.0.jar = 1657362761292
+C:\Users\kmusi\.m2\repository\org\junit\platform\junit-platform-commons\1.6.0\junit-platform-commons-1.6.0.jar = 1666619096625
+C:\Users\kmusi\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.6.3\junit-jupiter-engine-5.6.3.jar = 1670074896554
+C:\Users\kmusi\.m2\repository\org\junit\platform\junit-platform-engine\1.6.3\junit-platform-engine-1.6.3.jar = 1670074896467
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\src\main\java = 1669045660340
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\allclasses-index.html = 1672844473645
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\allclasses.html = 1672844473659
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\allpackages-index.html = 1672844473650
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\constant-values.html = 1672844473371
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\deprecated-list.html = 1672844473655
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\element-list = 1672844473318
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\help-doc.html = 1672844473671
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\index-all.html = 1672844473634
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\index.html = 1672844473664
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\member-search-index.js = 1672844473624
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\member-search-index.zip = 1672844473625
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\overview-summary.html = 1672844473668
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\overview-tree.html = 1672844473572
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\package-search-index.js = 1672844473616
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\package-search-index.zip = 1672844473619
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\script.js = 1672844473680
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\search.js = 1672844473682
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\serialized-form.html = 1672844473387
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\stylesheet.css = 1672844473679
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\type-search-index.js = 1672844473620
+C:\Users\kmusi\OneDrive\Desktop\Java_studia\wypozyczalnia_audiobookow_web\target\site\apidocs\type-search-index.zip = 1672844473622
